@@ -1,5 +1,5 @@
 <h3 align="center">
-Hi there, I'm <a href="https://maheshlab.com.np/" target="_blank" rel="noreferrer">Mahesh aka Maheshlab !!</a> 👋
+Hi there, I'm <a href="https://github.com/Maheshlab/" target="_blank" rel="noreferrer">Mahesh aka Maheshlab !!</a> 👋
 </h3>
 
 Student by day, explorer by night, and lifelong learner.
