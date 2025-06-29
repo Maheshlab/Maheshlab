@@ -24,7 +24,7 @@ Student by day, explorer by night, and lifelong learner.
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="30"/></a>
 
 
-> "Code. Contribute. Celebrate growth."
+> "Code | Contribute Celebrate | growth."
 
 
 
