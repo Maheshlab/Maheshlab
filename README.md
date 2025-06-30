@@ -20,6 +20,6 @@ Hi there, I'm <a href="https://www.self.so/mahesh-shrestha" target="_blank" rel=
 
 <h4>📈 GitHub Stats:</h4>
 
-![Mahesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maheshlab&show_icons=true&theme=tokyonight)
+![Mahesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maheshlab&show_icons=true&theme=algolia)
 
 > **"Code | Contribute | Celebrate growth."**
