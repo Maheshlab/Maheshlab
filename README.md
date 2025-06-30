@@ -8,13 +8,6 @@ Hi there, I'm <a href="https://www.self.so/mahesh-shrestha" target="_blank" rel=
 
 <a href="https://www.linkedin.com/in/mahesh-kumar-shrestha/">
 <img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="LinkedIn" width="27"  style="padding:3px"/></a> 
-<a href="https://www.maheshkumarshrestha.com.np/">
-  <img src="https://img.icons8.com/ios-filled/20/ffffff/domain.png" alt="Website" width="27"  style="padding:3px"/>
-</a>
-<a href="https://www.instagram.com/_maheshshrestha/" class="social-link" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" 
-       alt="Instagram" width="27" class="social-icon" style="padding:3px;" />
-</a>
 
 <h4>🛠️ Tools & Technologies:</h4> 
 
