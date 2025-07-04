@@ -6,7 +6,7 @@ Hi there, I'm <a href="https://www.self.so/mahesh-shrestha" target="_blank" rel=
 
 <h4>Connect with me:</h4>
 
-<a href="https://www.linkedin.com/in/mahesh-kumar-shrestha/">
+<a href="https://www.linkedin.com/in/mahesh--shrestha/">
 <img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="LinkedIn" height="30" width="27"  style="padding:5px" /></a> 
 <a href="https://www.instagram.com/_maheshshrestha" >
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="27" style="padding:5px" />
