@@ -1,5 +1,5 @@
 <h2 align="center">
-Hi there, I'm <a href="https://www.self.so/mahesh-shrestha" target="_blank" rel="noreferrer">Mahesh aka Maheshlab !!</a>👋
+Hi there, I'm <a href="https://www.self.so/mahesh-shrestha" target="_blank" rel="noreferrer">Mahesh!!</a>👋
 </h2>
 
 ***Student by day, explorer by night, and lifelong learner.***
