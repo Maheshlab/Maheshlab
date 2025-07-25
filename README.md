@@ -3,7 +3,8 @@ Hi there, I'm <a href="https://www.self.so/mahesh-shrestha" target="_blank" rel=
 </h2>
 
 ***Student by day, explorer by night, and lifelong learner.***
-
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=400&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Building+the+Future+with+Code.;Learning.+Growing.+Innovating.;Passionate+About+Open+Source.;Writing+Code+That+Matters.;Dark+Mode+is+My+Aesthetic.;Mastering+Git%2C+One+Commit+at+a+Time.;Living+in+the+Cloud.;Eat.+Sleep.+Code.+Repeat.;Dream+in+Brackets+and+Semicolons." alt="Typing SVG" />
+</p>
 <h4>Connect with me:</h4>
 
 <a href="https://www.linkedin.com/in/mahesh-kumar-shrestha/">
