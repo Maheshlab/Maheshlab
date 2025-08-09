@@ -22,7 +22,6 @@ Hi there, I'm <a href="https://www.maheshkumarshrestha.com.np/" target="_blank" 
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="30" style="padding:6px"/></a>
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="30" style="padding:6px"/></a>
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="30" style="padding:6px"/></a>
-<a href="#"><img src="https://img.icons8.com/color/48/ubuntu--v1.png" alt="Ubuntu" width="30" style="padding:6px"/></a> 
 <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Fedora_logo.svg" alt="Fedora Linux" width="30" style="padding:6px"/></a>
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="30" style="padding:6px"/></a>
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="30" style="padding:6px"/></a>
