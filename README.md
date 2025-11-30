@@ -14,9 +14,10 @@ Hi there, I'm <a href="https://www.maheshkumarshrestha.com.np/" target="_blank" 
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="27" style="padding:5px" />
 </a>
 
-<h4>🛠️ Tools & Technologies:</h4> 
+<h4>🛠️ Tools & Stacks:</h4> 
 
 <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C Programming" width="30" style="padding:6px"/></a>
+<a href="#"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  alt="Java" width="30"  style="padding:6px"/></a>
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" style="padding:6px"/></a>
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="30" style="padding:6px"/></a>
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="30" style="padding:6px"/></a>
@@ -25,10 +26,6 @@ Hi there, I'm <a href="https://www.maheshkumarshrestha.com.np/" target="_blank" 
 <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Fedora_logo.svg" alt="Fedora Linux" width="30" style="padding:6px"/></a>
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="30" style="padding:6px"/></a>
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="30" style="padding:6px"/></a>
-
-<h4>📈 GitHub Stats:</h4>
-
-![Mahesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maheshlab&show_icons=true&theme=algolia)
 
 <h4>📜 Certification:</h4>
 
