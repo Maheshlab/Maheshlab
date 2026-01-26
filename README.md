@@ -9,17 +9,17 @@ Mahesh!!
 <b>Student by day, explorer by night, and lifelong learner.</b>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=400&size=22&pause=500&duration=3000&color=00FF00&center=true&vCenter=true&width=500&lines=Building+the+Future+with+Code.;Learning.+Growing.+Innovating.;Passionate+About+Open+Source.;Writing+Code+That+Matters.;Mastering+Git%2C+One+Commit+at+a+Time.;Living+in+the+Cloud.;Eat.+Sleep.+Code.+Repeat.;Dream+in+Brackets+and+Semicolons.;Coding+My+Way+Through+Life.;Learning+Never+Stops.;Automate+Everything.;Code+Like+a+Pro.;Designing+Delightful+Experiences." alt="Typing SVG" />
-</p>
+</p> -->
 
-<h4>👨‍💻 About Me</h4>
+<!-- <h4>About Me</h4>
 <ul>
   <li>BCA student with a strong curiosity for how systems work under the hood</li>
   <li>Passionate about software development, problem-solving, and clean code</li>
   <li>Linux enthusiast, comfortable working in Fedora and open-source environments</li>
   <li>Open to collaboration on beginner-friendly, open-source, and learning-focused projects</li>
-</ul>
+</ul> -->
 
 <h4>Connect with me:</h4>
 <p>
@@ -30,11 +30,9 @@ Mahesh!!
 <a href="https://x.com/_maheshshrestha" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/X_icon_2.svg" alt="X" height="30" width="32" style="padding:7px"/></a>
      
-
-
 </p>
 
-<h4>🛠️ Tools & Stacks:</h4> 
+<h4>Tools & Stacks:</h4> 
 <p>
   <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C Programming" width="35" style="padding:8px"/></a>
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="35" style="padding:8px"/></a>
@@ -57,7 +55,7 @@ Mahesh!!
 </p>
 
 
-<h4>📜 Certification:</h4>
+<h4>Certification:</h4>
 
 <a href="https://www.freecodecamp.org/certification/fcc758014e6-2ecb-4ef2-b351-c72a44e09c8e/responsive-web-design" target="_blank">
 <img src="https://img.shields.io/badge/Responsive_Web_Design-Certified-blue?style=flat&logo=freecodecamp&logoColor=white" alt="Responsive Web Design Certification"/>
