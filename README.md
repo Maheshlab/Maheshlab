@@ -25,10 +25,10 @@ Mahesh!!
 <p>
 <a href="https://www.linkedin.com/in/mahesh-kumar-shrestha/" target="_blank">
 <img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="LinkedIn" height="30" width="32" style="padding:7px" /></a> 
-<a href="https://www.instagram.com/_maheshshrestha" target="_blank">
+<!-- <a href="https://www.instagram.com/_maheshshrestha" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="32" style="padding:7px"/></a>
 <a href="https://x.com/_maheshshrestha" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/X_icon_2.svg" alt="X" height="30" width="32" style="padding:7px"/></a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/X_icon_2.svg" alt="X" height="30" width="32" style="padding:7px"/></a> -->
      
 </p>
 
