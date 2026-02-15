@@ -42,8 +42,8 @@ Mahesh!!
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="35" style="padding:8px"/></a>
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="35" style="padding:8px"/></a>
 <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Fedora_logo.svg" alt="Fedora Linux" width="35" style="padding:8px"/></a>
-<a href="#"><img src="https://nmap.org/images/nmap-logo-256x256.png" alt="Nmap" width="35" style="padding:8px"/></a>
-<a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" alt="Wireshark" width="35" style="padding:8px"/></a>
+<!-- <a href="#"><img src="https://nmap.org/images/nmap-logo-256x256.png" alt="Nmap" width="35" style="padding:8px"/></a>
+<a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" alt="Wireshark" width="35" style="padding:8px"/></a> -->
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="35" style="padding:8px"/></a>
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="35" style="padding:8px"/></a>
 </p>
