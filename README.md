@@ -13,13 +13,13 @@ Mahesh!!
   <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=400&size=22&pause=500&duration=3000&color=00FF00&center=true&vCenter=true&width=500&lines=Building+the+Future+with+Code.;Learning.+Growing.+Innovating.;Passionate+About+Open+Source.;Writing+Code+That+Matters.;Mastering+Git%2C+One+Commit+at+a+Time.;Living+in+the+Cloud.;Eat.+Sleep.+Code.+Repeat.;Dream+in+Brackets+and+Semicolons.;Coding+My+Way+Through+Life.;Learning+Never+Stops.;Automate+Everything.;Code+Like+a+Pro.;Designing+Delightful+Experiences." alt="Typing SVG" />
 </p> -->
 
-<!-- <h4>About Me</h4>
+ <h4>About Me</h4>
 <ul>
   <li>BCA student with a strong curiosity for how systems work under the hood</li>
   <li>Passionate about software development, problem-solving, and clean code</li>
   <li>Linux enthusiast, comfortable working in Fedora and open-source environments</li>
   <li>Open to collaboration on beginner-friendly, open-source, and learning-focused projects</li>
-</ul> -->
+</ul>
 
 <h4>Connect with me:</h4>
 <p>
@@ -48,11 +48,11 @@ Mahesh!!
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="35" style="padding:8px"/></a>
 </p>
 
-<h4>Github Stats:</h4>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Maheshlab&show_icons=true&theme=tokyonight" height="150"/>
 
-</p>
+<!-- ## GitHub Stats
+![Maheshlab's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maheshlab&show_icons=true&theme=tokyonight)
+-->
+
 
 
 <h4>Certification:</h4>
