@@ -27,9 +27,9 @@ Mahesh!!
 <img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="LinkedIn" height="30" width="32" style="padding:7px" /></a> 
 <!-- <a href="https://www.instagram.com/_maheshshrestha" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="32" style="padding:7px"/></a>
-<a href="https://x.com/_maheshshrestha" target="_blank">
+ <a href="https://x.com/_maheshshrestha" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/X_icon_2.svg" alt="X" height="30" width="32" style="padding:7px"/></a> -->
-     
+      
 </p>
 
 <h4>Tools & Stacks:</h4> 
@@ -40,6 +40,7 @@ Mahesh!!
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="35" style="padding:8px"/></a>
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="35" style="padding:8px"/></a>
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="35" style="padding:8px"/></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA Ultimate" width="35" style="padding:8px"/></a>
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="35" style="padding:8px"/></a>
 <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Fedora_logo.svg" alt="Fedora Linux" width="35" style="padding:8px"/></a>
 <!-- <a href="#"><img src="https://nmap.org/images/nmap-logo-256x256.png" alt="Nmap" width="35" style="padding:8px"/></a>
